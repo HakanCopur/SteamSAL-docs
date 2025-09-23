@@ -1,6 +1,6 @@
 site_name: SteamSAL Docs
 site_url: https://hakancopur.github.io/SteamSAL-docs/
-repo_url: https://github.com/HakanCopur/SteamSAL-docs
+repo_url: https://github.com/HakanCopur/steam-achievements-leaderboards
 plugins:
   - search
 extra_css:
