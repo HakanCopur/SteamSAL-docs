@@ -1,0 +1,93 @@
+site_name: SteamSAL Documentation
+site_url: https://steam-achievements-leaderboards
+plugins:
+  - search
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Blueprint Nodes:
+    - Leaderboard:
+        - Create Steam Leaderboard: leaderboard/create.md
+        - Find Steam Leaderboard: leaderboard/find.md
+        - Upload Steam Leaderboard Score: leaderboard/upload.md
+        - Get Steam Leaderboard Entries: leaderboard/entries.md
+        - Get Steam Leaderboard Entries (Users): leaderboard/entriesusers.md
+        - Get Leaderboard Display Type: leaderboard/displaytype.md
+        - Get Leaderboard Entry Count: leaderboard/entrycount.md
+        - Get Leaderboard Name: leaderboard/name.md
+        - Get Leaderboard Sort Method: leaderboard/sort.md
+    - Achievements:
+        - Request Current Stats And Achievements: achievement/requestcurrentstats.md
+        - Store User Stats And Achievements: achievement/storestats.md
+        - Set Achievement (Unlock): achievement/setachievement.md
+        - Clear Achievement: achievement/clearachievement.md
+        - Indicate Achievement Progress: achievement/indicateachievement.md
+        - Clear User Stats And Achievements: achievement/clearallstats.md
+        - Show Achievement Overlay: achievement/showoverlay.md
+        - Request Global Stats: achievement/requestglobalstats.md
+        - Set Local (Cached) Stat: achievement/setlocalstat.md
+        - Set Local (Cached) Stats (Batch): achievement/setlocalstatsbatch.md
+        - Add To Local (Cached) Stat: achievement/addlocalstat.md
+        - Get Achievement Status: achievement/getstatus.md
+        - Get Number Of Achievements: achievement/getachievements.md
+        - Get Achievement API Name: achievement/getapiname.md
+        - Get Achievement Display Info: achievement/getdisplayinfo.md
+        - Get Achievement Icon: achievement/geticon.md
+        - Get Local (Cached) Stat: achievement/getlocalstat.md
+        - Get Global Achievement Percent: achievement/getglobalpercent.md
+        - Get Global Stat (Aggregated): achievement/getglobalstat.md
+        - Get Global Stat History: achievement/getglobalstathistory.md
+        - List All Achievement API Names: achievement/getallapinames.md
+    - Get SteamID: steamid.md
+    - Is Steam Available: steamavailable.md
+  - DataTypes:
+        - FSAL_LeaderboardEntryRow: datatypes/leaderboardentryrow.md
+        - SAL_StatWrite: datatypes/statwrite.md
+        - SteamStat: datatypes/steamstat.md
+  - Example Usages:
+        - Creating Steam Leaderboard: examples/createleaderboard.md
+        - Upload Score To Leaderboard: examples/uploadscore.md
+        - Unlocking an Achievement: examples/unlockachievement.md
+        - Tracking Achievement Progress: examples/tracking.md
+        - Downloading Users Leaderboard Entries: examples/entries.md
+        - Reading Player Stats: examples/requeststats.md
+
+theme:
+  favicon: ../resources/favicon.ico
+  logo: ../resources/unforge_nobg.png
+  name: material
+  font: 
+    text: Roboto
+    code: Red Hat Mono
+  #icon:
+    #logo: ../resources/Icon128.png
+    #favicon:
+
+  palette: 
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4 
+        name: Switch to dark mode
+      primary: indigo
+      accent: deep purple
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+      primary: light blue
+      accent: deep purple
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
