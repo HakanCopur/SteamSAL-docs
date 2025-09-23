@@ -1,6 +1,6 @@
 # Is Steam Available
 
-![Blueprint node screenshot](../resources/steamavailable.png)
+![Blueprint node screenshot](resources/steamavailable.png)
 
 <span style="font-size:17px">Checks whether Steam is properly initialized for this session and ready for API calls.</span>
 

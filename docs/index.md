@@ -1,6 +1,6 @@
 # SteamSAL – Steam Achievements & Leaderboards Plugin
 
-![UnForge Logo](../resources/steamsalbanner_small.png){: style="display: block; margin: 0 auto;" width="800"}
+![UnForge Logo](resources/steamsalbanner_small.png){: style="display: block; margin: 0 auto;" width="800"}
 
 **SteamSAL** is a free Unreal Engine plugin that provides easy-to-use **Blueprint nodes** for integrating **Steam Achievements, Stats, and Leaderboards** into your game.  
 It is designed for developers who want to bring Steamworks features into their projects without diving deep into C++ or the raw Steam API.

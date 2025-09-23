@@ -1,6 +1,6 @@
 # Get Steam ID
 
-![Blueprint node screenshot](../resources/steamid.png)
+![Blueprint node screenshot](resources/steamid.png)
 
 <span style="font-size:17px">Returns the local player’s **SteamID64** as a string from a given Player Controller.</span>
 

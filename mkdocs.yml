@@ -57,7 +57,7 @@ nav:
 
 theme:
   favicon: ../resources/favicon.ico
-  logo: ../resources/unforge_nobg.png
+  logo: resources/unforge_nobg.png
   name: material
   font: 
     text: Roboto
