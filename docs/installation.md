@@ -8,10 +8,12 @@ If you prefer, you can skip the source installation and **directly install the p
 
 ## Requirements
 
-- **Unreal Engine**: 5.4 (tested) – should also work on UE 5.0+  
+- **Unreal Engine**: Tested and fully compatible with **5.0, 5.1, 5.2, 5.3, 5.4, 5.5, and 5.6**  
 - **Steamworks SDK**: v1.57 (or compatible version bundled with the OnlineSubsystemSteam)  
 - **Platform**: Windows (64-bit). Linux/Mac support planned but not tested.  
 - **Online Subsystem**: `OnlineSubsystemSteam` must be enabled  
+
+> ✅ The plugin has been verified to work across all Unreal Engine 5 versions listed above.
 
 ---
 
@@ -33,18 +35,10 @@ If you prefer, you can skip the source installation and **directly install the p
 4. Enable it and restart the editor.  
 
 ### 3. Configure Steam Subsystem
-Edit (or create) `Config/DefaultEngine.ini` in your project folder and add:  
+Follow the official Unreal Engine guide to properly set up the **Online Subsystem Steam** for your engine version:  
+👉 [Epic Games Documentation – Online Subsystem Steam Interface](https://dev.epicgames.com/documentation/en-us/unreal-engine/online-subsystem-steam-interface-in-unreal-engine)
 
-```ini
-[OnlineSubsystem]
-DefaultPlatformService=Steam
-
-[OnlineSubsystemSteam]
-bEnabled=true
-SteamDevAppId=480    ; Replace with your own App ID
-```
-
-> ⚠️ App ID `480` is Valve’s *Spacewar* test ID. Use it only for local testing.  
+> ⚠️ Make sure you configure your App ID and enable the subsystem correctly for Steam to initialize in your project.
 
 ### 4. Rebuild the Project
 - **C++ projects**: Regenerate project files and build.  
@@ -54,11 +48,15 @@ SteamDevAppId=480    ; Replace with your own App ID
 
 ## Verification
 
-To confirm SteamSAL is working:  
+To confirm SteamSAL is working correctly:  
 
-1. Launch the game **through Steam** (not directly from the editor).  
-2. In the editor, add the **Is Steam Available** node.  
-3. If Steam initializes correctly, it should return `True`.  
+1. Launch your game **as a Standalone Game** or **as a Packaged Build**.  
+2. Steam must be running in the background and your Steam account logged in.  
+3. In the editor, add the **Is Steam Available** node.  
+4. If Steam initializes correctly, it should return `True`.  
+
+> ⚠️ Steam **will not initialize** when running in **Play-In-Editor (PIE)** mode.  
+> To see the Steam overlay and use Steam features, always run in **Standalone** or **Packaged Build** mode.
 
 ---
 
@@ -77,4 +75,4 @@ Once installed, you can begin using:
 If you encounter issues:  
 
 - Open a ticket in [GitHub Issues](https://github.com/HakanCopur/steam-achievements-leaderboards/issues)  
-- Contact me directly: **dev@hakancopur.com**  
+- Contact me directly: **dev@hakancopur.com**
