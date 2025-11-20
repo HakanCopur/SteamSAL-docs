@@ -2,9 +2,10 @@
 
 ![UnForge Logo](resources/steamsalbanner_small.png){: style="display: block; margin: 0 auto;" width="800"}
 
+> **Current Version:** `v1.2.0` – adds UGC-enabled leaderboards, new helpers, and an improved single-struct download workflow.
+
 **SteamSAL** is a free Unreal Engine plugin that provides easy-to-use **Blueprint nodes** for integrating **Steam Achievements, Stats, and Leaderboards** into your game.  
 It is designed for developers who want to bring Steamworks features into their projects without diving deep into C++ or the raw Steam API.
-
 
 ---
 
@@ -14,7 +15,7 @@ It is designed for developers who want to bring Steamworks features into their p
 - 🔹 **Steam Stats**  
   - Read and write player stats, retrieve global and historical values.  
 - 🔹 **Leaderboards**  
-  - Create or find leaderboards, upload scores, download entries, and show player data (name, avatar, rank, score).  
+  - Create or find leaderboards, upload scores (with optional UGC attachments), download entries, and show player data (name, avatar, rank, score).  
 - 🔹 **Blueprint-first Workflow**  
   - All functionality exposed as async and pure Blueprint nodes.  
 

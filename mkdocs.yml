@@ -13,12 +13,22 @@ nav:
         - Create Steam Leaderboard: leaderboard/create.md
         - Find Steam Leaderboard: leaderboard/find.md
         - Upload Steam Leaderboard Score: leaderboard/upload.md
-        - Get Steam Leaderboard Entries: leaderboard/entries.md
-        - Get Steam Leaderboard Entries (Users): leaderboard/entriesusers.md
+        - Download Steam Leaderboard Entries: leaderboard/entries.md
+        - Download Steam Leaderboard Entries (Users): leaderboard/entriesusers.md
+        - Get Downloaded Leaderboard Entry: leaderboard/getentry.md
         - Get Leaderboard Display Type: leaderboard/displaytype.md
         - Get Leaderboard Entry Count: leaderboard/entrycount.md
         - Get Leaderboard Name: leaderboard/name.md
         - Get Leaderboard Sort Method: leaderboard/sort.md
+        - Upload Steam Leaderboard Score With UGC: leaderboard/uploadugc.md
+        - Download Steam UGC File: leaderboard/downloadugc.md
+        - Format Leaderboard Score: leaderboard/formatleaderboardscore.md
+        - Get Steam Display Name From SteamID: leaderboard/getdisplaynamefromsteamid.md
+        - Get Steam Server Real Time: leaderboard/getsteamservertime.md
+        - String To Bytes (UTF8): leaderboard/stringtobytes.md
+        - Bytes To String (UTF8): leaderboard/bytestostring.md
+        - Save Bytes To File: leaderboard/savebytestofile.md
+        - Load File To Bytes: leaderboard/loadfiletobytes.md
     - Achievements:
         - Request Current Stats And Achievements: achievement/requestcurrentstats.md
         - Store User Stats And Achievements: achievement/storestats.md
