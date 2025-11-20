@@ -535,7 +535,7 @@
   
   
   <span class="md-ellipsis">
-    Get Steam Leaderboard Entries
+    Download Steam Leaderboard Entries
     
   </span>
   
@@ -558,7 +558,30 @@
   
   
   <span class="md-ellipsis">
-    Get Steam Leaderboard Entries (Users)
+    Download Steam Leaderboard Entries (Users)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/getentry/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Get Downloaded Leaderboard Entry
     
   </span>
   
@@ -651,6 +674,213 @@
   
   <span class="md-ellipsis">
     Get Leaderboard Sort Method
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/uploadugc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Upload Steam Leaderboard Score With UGC
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/downloadugc/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Download Steam UGC File
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/formatleaderboardscore/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Format Leaderboard Score
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/getdisplaynamefromsteamid/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Get Steam Display Name From SteamID
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/getsteamservertime/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Get Steam Server Real Time
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/stringtobytes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    String To Bytes (UTF8)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/bytestostring/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bytes To String (UTF8)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/savebytestofile/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Save Bytes To File
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="leaderboard/loadfiletobytes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Load File To Bytes
     
   </span>
   
@@ -1640,6 +1870,9 @@
 
 <h1 id="steamsal-steam-achievements-leaderboards-plugin">SteamSAL – Steam Achievements &amp; Leaderboards Plugin</h1>
 <p><img alt="UnForge Logo" src="resources/steamsalbanner_small.png" style="display: block; margin: 0 auto;" width="800" /></p>
+<blockquote>
+<p><strong>Current Version:</strong> <code>v1.2.0</code> – adds UGC-enabled leaderboards, new helpers, and an improved single-struct download workflow.</p>
+</blockquote>
 <p><strong>SteamSAL</strong> is a free Unreal Engine plugin that provides easy-to-use <strong>Blueprint nodes</strong> for integrating <strong>Steam Achievements, Stats, and Leaderboards</strong> into your game.<br />
 It is designed for developers who want to bring Steamworks features into their projects without diving deep into C++ or the raw Steam API.</p>
 <hr />
@@ -1650,7 +1883,7 @@ It is designed for developers who want to bring Steamworks features into their p
 <li>🔹 <strong>Steam Stats</strong>  </li>
 <li>Read and write player stats, retrieve global and historical values.  </li>
 <li>🔹 <strong>Leaderboards</strong>  </li>
-<li>Create or find leaderboards, upload scores, download entries, and show player data (name, avatar, rank, score).  </li>
+<li>Create or find leaderboards, upload scores (with optional UGC attachments), download entries, and show player data (name, avatar, rank, score).  </li>
 <li>🔹 <strong>Blueprint-first Workflow</strong>  </li>
 <li>All functionality exposed as async and pure Blueprint nodes.  </li>
 </ul>

@@ -2,178 +2,218 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/Blueprint%20Nodes/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/installation/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/steamavailable/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/steamid/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/addlocalstat/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/clearachievement/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/clearallstats/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getachievements/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getallapinames/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getapiname/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getdisplayinfo/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getglobalpercent/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getglobalstat/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getglobalstathistory/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/geticon/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getlocalstat/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/getstatus/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/indicateachievement/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/requestcurrentstats/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/requestglobalstats/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/setachievement/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/setlocalstat/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/setlocalstatsbatch/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/showoverlay/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/achievement/storestats/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/datatypes/leaderboardentryrow/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/datatypes/statwrite/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/datatypes/steamstat/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/examples/createleaderboard/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/examples/entries/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/examples/requeststats/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/examples/tracking/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/examples/unlockachievement/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/examples/uploadscore/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/bytestostring/</loc>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/create/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/displaytype/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/downloadugc/</loc>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/entries/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/entriesusers/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/entrycount/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/find/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/formatleaderboardscore/</loc>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/getdisplaynamefromsteamid/</loc>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/getentry/</loc>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/getsteamservertime/</loc>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/loadfiletobytes/</loc>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/name/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/savebytestofile/</loc>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/sort/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/stringtobytes/</loc>
+         <lastmod>2025-11-20</lastmod>
     </url>
     <url>
          <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/upload/</loc>
-         <lastmod>2025-10-09</lastmod>
+         <lastmod>2025-11-20</lastmod>
+    </url>
+    <url>
+         <loc>https://hakancopur.github.io/SteamSAL-docs/leaderboard/uploadugc/</loc>
+         <lastmod>2025-11-20</lastmod>
     </url>
 </urlset>
