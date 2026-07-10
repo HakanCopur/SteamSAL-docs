@@ -8,7 +8,7 @@ If you prefer, you can skip the source installation and **directly install the p
 
 ## Requirements
 
-- **Unreal Engine**: Tested and fully compatible with **5.0, 5.1, 5.2, 5.3, 5.4, 5.5, and 5.6**  
+- **Unreal Engine**: Tested and fully compatible with **5.0, 5.1, 5.2, 5.3, 5.4, 5.5, 5.6, 5.7 and 5.8**  
 - **Steamworks SDK**: v1.57 (or compatible version bundled with the OnlineSubsystemSteam)  
 - **Platform**: Windows (64-bit). Linux/Mac support planned but not tested.  
 - **Online Subsystem**: `OnlineSubsystemSteam` must be enabled  
